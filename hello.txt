@@ -1,5 +1,5 @@
-nmsl,gun! 2222222222
-nmsl,gun! 3333333333
+nmsl,gun! 22222
+nmsl,gun! 33333
 nmsl,gun!
 nmsl,gun!
 nmsl,gun!
