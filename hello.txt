@@ -13,4 +13,4 @@ nmsl,gun!
 nmsl,gun!
 nmsl,gun!
 nmsl,gun! master test
-nmsl,gun!
+nmsl,gun! hot-fix test
